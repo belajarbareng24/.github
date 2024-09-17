@@ -4,8 +4,8 @@
 <img src="./asset/banner.jpg"/>
 <br>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=belajarbareng24" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/belajarbareng24?label=followers&style=social"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=belajarbareng24.belajarbareng24" />
+  <a href="https://github.com/belajarbareng24"><img src="https://img.shields.io/github/followers/belajarbareng24?label=followers&style=social"/></a>
   <a href="https://user-badge.committers.top/indonesia/belajarbareng24"><img src="https://user-badge.committers.top/indonesia/belajarbareng24.svg" alt="committers.top badge"></a>
 </p>
 <br>
