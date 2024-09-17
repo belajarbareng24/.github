@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&color=06b6d4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;Welcome+To+Belajar+Bareng+Community+%E2%9C%A9"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&color=06b6d4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!;Welcome+To+Belajar+Bareng+Community+%E2%9C%A9"/>
 <br><br>
 <img src="./asset/banner.jpg"/>
 <br><br>
@@ -31,3 +31,4 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELAJARBARENG-2024&layout=compact&theme=synthwave" width="450"  alt="BELAJAR BARENG"/>
      <img src="https://github-profile-trophy.vercel.app/?username=BELAJARBARENG-2024&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="BELAJAR BARENG"/>
 </a>
+</div>
