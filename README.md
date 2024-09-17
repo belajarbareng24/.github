@@ -4,9 +4,9 @@
 <img src="./asset/banner.jpg"/>
 <br>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=belajarbareng24.belajarbareng24" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/belajarbareng24t?label=followers&style=social"/></a>
-  <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/belajarbareng24.svg" alt="committers.top badge"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=belajarbareng24" />
+  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/belajarbareng24?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/belajarbareng24"><img src="https://user-badge.committers.top/indonesia/belajarbareng24.svg" alt="committers.top badge"></a>
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
